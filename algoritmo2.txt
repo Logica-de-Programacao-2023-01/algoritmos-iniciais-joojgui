@@ -1,0 +1,9 @@
+Algoritmo de conversão de temperatura: um algoritmo que converte uma temperatura em Celsius para Fahrenheit ou vice-versa.
+1: insira "unidade de temperatura"
+2: insira "temperatura para conversão"
+2: "unidade de temperatura"= celsius ou então "unidade de temperatura"= fahrenheit
+3: se "temperatura para conversão"= "celsius" então "celsius"= X
+4: se " temperatura para conversão"="fahrenheit então "fahrenheit"= Y
+5: se "temperatura para conversão"= "celsius" então faça ( X × 9/5) + 32 = "resultado"
+6: se "temperatura para conversão"= fahrenheit faça ( Y − 32) × 5/9 = "resultado"
+7: escreva "resultado"
